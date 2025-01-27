@@ -1,7 +1,7 @@
 "use client"; // Add this line to declare that this component runs on the client
 
 import Lottie from "lottie-react";
-import animation from "./assets/earth.json";
+import animation from "../public/assets/earth.json"
 
 import React from 'react'
 

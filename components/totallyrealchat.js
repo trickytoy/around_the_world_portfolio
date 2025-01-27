@@ -2,11 +2,11 @@
 import React from 'react'
 import { ChatCard, Message } from "@/components/ui/chat-card";
 import { useState } from "react";
-import pic1 from "./assets/pfp/1.png"
-import pic2 from "./assets/pfp/2.png"
-import pic3 from "./assets/pfp/3.png"
-import pic4 from "./assets/pfp/4.png"
-import pic5 from "./assets/pfp/5.png"
+import pic1 from "../public/assets/pfp/1.png"
+import pic2 from "../public/assets/pfp/2.png"
+import pic3 from "../public/assets/pfp/3.png"
+import pic4 from "../public/assets/pfp/4.png"
+import pic5 from "../public/assets/pfp/5.png"
 
 const CURRENT_USER = {
     name: "You",

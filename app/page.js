@@ -2,18 +2,18 @@ import React from 'react';
 import { Typewriter } from "@/components/ui/typewriter-text"
 
 
-import { Earth } from "../components/animated_comp";
-import { Background } from '../components/backgroundparticles';
+import { Earth } from "@/components/animated_comp";
+import { Background } from '@/components/backgroundparticles';
 import { LampDemo } from '@/components/ui/lamp';
 import { GridBackground } from '@/components/ui/glowing-card';
-import { TRC } from '../components/totallyrealchat';
-import { PicFrame } from '../components/pic_frame';
-import { PicFrame2 } from '../components/pic_frame2';
-import { PicFrame3 } from '../components/pic_frame3';
-import { Background2 } from '../components/backgroundparticlev2';
-import { Projects } from '../components/projects';
-import { Marquee } from '../components/marquee';
-import { Experience } from '../components/experience';
+import { TRC } from '@/components/totallyrealchat';
+import { PicFrame } from '@/components/pic_frame';
+import { PicFrame2 } from '@/components/pic_frame2';
+import { PicFrame3 } from '@/components/pic_frame3';
+import { Background2 } from '@/components/backgroundparticlev2';
+import { Projects } from '@/components/projects';
+import { Marquee } from '@/components/marquee';
+import { Experience } from '@/components/experience';
 import FooterSection from '@/components/sections/footer/default';
 
 export default function Home() {

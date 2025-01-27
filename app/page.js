@@ -12,7 +12,7 @@ import { PicFrame2 } from '@/components/pic_frame2';
 import { PicFrame3 } from '@/components/pic_frame3';
 import { Background2 } from '@/components/backgroundparticlev2';
 import { Projects } from '@/components/projects';
-import { Marquee } from '@/components/marquee';
+//import { Marquee } from '@/components/marquee';
 import { Experience } from '@/components/experience';
 import FooterSection from '@/components/sections/footer/default';
 
@@ -93,7 +93,7 @@ export default function Home() {
           
         </div>
         <div className="flex items-center col-span-4 justify-center w-full h-full ">
-          <Marquee />
+          
         </div>
       </div>
       

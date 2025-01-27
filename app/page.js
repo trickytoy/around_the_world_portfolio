@@ -32,25 +32,25 @@ export default function Home() {
           
         </div>
         <div className="flex items-center justify-center w-full h-full ">
-          Third Section
+          
         </div>
         <div className="flex items-center justify-center w-full h-full ">
-          Fourth Section
+          
         </div>
         <div className="flex items-center col-span-1 sm:col-span-2 justify-center w-full h-full ">
           <Earth />
         </div>
         <div className="flex items-center justify-center w-full h-full ">
-          Sixth Section
+          
         </div>
         <div className="flex items-center col-span-2  justify-center w-full h-full ">
           <Experience />
         </div>
         <div className="flex items-center justify-center w-full h-full ">
-          Sixth Section
+          
         </div>
         <div className="flex items-center col-span-3 justify-center w-full h-full ">
-          Sixth Section
+          
         </div>
         <div className="flex items-center justify-center w-full h-full ">
           <div className='p-4'>
@@ -72,7 +72,7 @@ export default function Home() {
             </div>
         </div>
         <div className="flex items-center col-span-2 sm:col-span-2 justify-center w-full h-full ">
-          Seventh Section
+          
         </div>
         <div className="flex items-center col-span-1 sm:col-span-2 md:col-span-3 lg:col-span-2 justify-center w-full h-full  row-span-2">
           <div className="w-full h-full max-h-full p-4 rounded-lg">
@@ -80,7 +80,7 @@ export default function Home() {
           </div>
         </div>
         <div className="flex items-center col-span-1 sm:col-span-2 justify-center w-full h-full ">
-          Seventh Section
+          
         </div>
         <div className="flex items-center justify-center w-full h-full ">
           
